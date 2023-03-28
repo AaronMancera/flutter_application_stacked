@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String initialRoute = '/counter';
+const String initialRoute = '/gauss';
 class Ruter{
   static Route<dynamic> generateRoute(RouteSettings settings){
     return MaterialPageRoute(
